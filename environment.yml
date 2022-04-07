@@ -5,7 +5,3 @@ dependencies:
   - requests
   - cartopy
   - pandas
-  - pip
-  - scipy
-  - pip:
-    - svgpath2mpl
